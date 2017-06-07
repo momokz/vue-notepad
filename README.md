@@ -16,4 +16,8 @@ npm run build
 
 ```
 
+利用window.localStorage储存笔记
+
+点击添加，会增加新笔记，可以标记喜欢，或是删除，修改。
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
