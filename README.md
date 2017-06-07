@@ -1,6 +1,6 @@
-# vue-advanced-note
+# vue-notepag
 
-> advanced note
+> notepag
 
 ## Build Setup
 
